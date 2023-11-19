@@ -1,0 +1,187 @@
+/* Barra de navegacion */
+
+.navbar {
+  padding: 2rem;
+  background-color: #f5f6f7;
+}
+
+.navbar-collapse {
+  align-items: center;
+  justify-content: space-between;  
+}
+
+/*Generales*/
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+body{
+  background: rgb(213, 220, 223);
+  font-family: montserrat;
+  padding:0px;
+  margin:0px;
+}
+
+
+.hero{
+  background: rgb(213, 220, 223);
+}
+
+.container-fluid{
+  height: auto;
+  background: rgb(213, 220, 223);
+}
+
+#menu{
+  height: auto
+}
+
+.container{
+  height: 700px;
+  margin: 10px;
+  padding:0px, 0px, 0px, 0px;
+}
+/*Fuentes y texto*/
+
+h1 { color: #37474f;
+  font-family: 'Alkatra', cursive;
+   text-align: center;  }
+h2 { color: #37474f;
+   background: #ffd966ff;
+   font-family: 'Alkatra', cursive;
+   font-weight: lighter ;
+   text-align: center;  }
+h3 { color: #ffffff;
+  font-family: 'Alkatra', cursive;
+  font-weight: lighter ;
+  text-align: center;  }
+h4 { color: #37474f;
+  font-family: 'Alkatra', cursive;
+   font-weight: lighter ;
+   text-align: center; 
+  background: #540313;
+  }
+   
+h5 { color: #ffffff;
+  font-family: 'Alkatra', cursive;
+   font-style: italic ;
+   font-weight: lighter ;
+ text-align: center; }
+p { color: #37474f;
+  font-family: 'Alkatra', cursive;
+  font-weight: lighter ;
+  text-align: center; }
+ 
+ 
+ /*graficas*/
+
+#g1{
+  width: 400px;
+  height: 400px
+ }
+/*footer*/
+.pie-pagina{
+  width: 100%;
+  background-color: #78909cff;
+}
+.pie-pagina .grupo-1{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap:50px;
+  padding: 45px 0px;
+}
+.pie-pagina .grupo-1 .box figure{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pie-pagina .grupo-1 .box figure img{
+  width: 250px;
+}
+.pie-pagina .grupo-1 .box h2{
+  color: #fff;
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+.pie-pagina .grupo-1 .box p{
+  color: #efefef;
+  margin-bottom: 10px;
+}
+.pie-pagina .grupo-1 .red-social a{
+  display: inline-block;
+  text-decoration: none;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  color: #fff;
+  margin-right: 10px;
+  background-color: #ffd966ff;
+  text-align: center;
+  transition: all 300ms ease;
+}
+.pie-pagina .grupo-1 .red-social a:hover{
+  color:#64ffdaff;
+}
+.pie-pagina .grupo-2{
+  background-color: #ffd966ff;
+  padding: 15px 10px;
+  text-align: center;
+  color: #37474f;
+}
+.pie-pagina .grupo-2 small{
+  font-size: 15px;
+}
+/*carrusel*/
+#Carruselcon {
+  max-width: 800px;
+}
+.carousel-item {
+  height: 550px;
+}
+
+
+.carrouse-item .container{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+/*map*/
+
+#map { height: 500px; }
+
+div.ui-dialog {
+  z-index: 1000;
+}
+label {
+  font-size: 10px;
+}
+
+
+/*Mediaquery*/
+
+@media screen and (max-width: 767px) {
+  .navbar-brand {
+    display: none;
+  }
+}
+
+@media screen and (max-width:800px){
+  .pie-pagina .grupo-1{
+      width: 90%;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap:30px;
+      padding: 35px 0px;
+  }
+}

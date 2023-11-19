@@ -1,0 +1,1307 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Irekua Irapuato",
+                "desc": "Centro de Convivencia Familiar en Irapuato"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -101.3585552,
+                            20.6857147
+                        ],
+                        [
+                            -101.3592096,
+                            20.6853132
+                        ],
+                        [
+                            -101.3608511,
+                            20.6852931
+                        ],
+                        [
+                            -101.3615271,
+                            20.6842292
+                        ],
+                        [
+                            -101.3608726,
+                            20.6829444
+                        ],
+                        [
+                            -101.3596066,
+                            20.6830548
+                        ],
+                        [
+                            -101.3587912,
+                            20.6840385
+                        ],
+                        [
+                            -101.35789,
+                            20.6844701
+                        ],
+                        [
+                            -101.35583,
+                            20.6854939
+                        ],
+                        [
+                            -101.3563021,
+                            20.686056
+                        ],
+                        [
+                            -101.3567098,
+                            20.6868589
+                        ],
+                        [
+                            -101.3585552,
+                            20.6857147
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Xohipilli Celaya",
+                "desc": "Centro de Convivencia Familiar en Celaya"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -100.8264875,
+                            20.5353198
+                        ],
+                        [
+                            -100.8266216,
+                            20.5351691
+                        ],
+                        [
+                            -100.8264446,
+                            20.532597
+                        ],
+                        [
+                            -100.825066,
+                            20.532582
+                        ],
+                        [
+                            -100.825082,
+                            20.5335666
+                        ],
+                        [
+                            -100.824154,
+                            20.5336068
+                        ],
+                        [
+                            -100.8242023,
+                            20.5341644
+                        ],
+                        [
+                            -100.8247495,
+                            20.5351741
+                        ],
+                        [
+                            -100.8247495,
+                            20.5354655
+                        ],
+                        [
+                            -100.8264875,
+                            20.5353198
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centro Acu\u00e1tico Teph\u00e9",
+                "desc": "Balneario de Aguas Termales Ixmiquilpan, Gto."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -99.1674754,
+                            20.4438677
+                        ],
+                        [
+                            -99.1677329,
+                            20.4420782
+                        ],
+                        [
+                            -99.1682479,
+                            20.4419073
+                        ],
+                        [
+                            -99.1683122,
+                            20.4417364
+                        ],
+                        [
+                            -99.1675934,
+                            20.4413142
+                        ],
+                        [
+                            -99.1678402,
+                            20.4409422
+                        ],
+                        [
+                            -99.1624221,
+                            20.4390421
+                        ],
+                        [
+                            -99.1612634,
+                            20.4384992
+                        ],
+                        [
+                            -99.1633662,
+                            20.4403893
+                        ],
+                        [
+                            -99.1637954,
+                            20.4408115
+                        ],
+                        [
+                            -99.1645464,
+                            20.4409321
+                        ],
+                        [
+                            -99.1643104,
+                            20.4412739
+                        ],
+                        [
+                            -99.1636988,
+                            20.4412237
+                        ],
+                        [
+                            -99.1636023,
+                            20.4415353
+                        ],
+                        [
+                            -99.1647181,
+                            20.441847
+                        ],
+                        [
+                            -99.1651043,
+                            20.4421687
+                        ],
+                        [
+                            -99.1652867,
+                            20.4432946
+                        ],
+                        [
+                            -99.1649434,
+                            20.4437269
+                        ],
+                        [
+                            -99.166027,
+                            20.4446719
+                        ],
+                        [
+                            -99.1663274,
+                            20.4440587
+                        ],
+                        [
+                            -99.1667995,
+                            20.4434052
+                        ],
+                        [
+                            -99.1674754,
+                            20.4438677
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00edo ulumpan",
+                "desc": "Senderismo y agua bonita"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.6471056,
+                            18.0646394
+                        ],
+                        [
+                            -96.6495947,
+                            18.059009
+                        ],
+                        [
+                            -96.6313128,
+                            18.0576217
+                        ],
+                        [
+                            -96.624618,
+                            18.0858541
+                        ],
+                        [
+                            -96.6471056,
+                            18.0646394
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chapala",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.6116783,
+                            20.3423421
+                        ],
+                        [
+                            -103.1777184,
+                            19.9400784
+                        ],
+                        [
+                            -102.6503746,
+                            20.3320406
+                        ],
+                        [
+                            -103.6116783,
+                            20.3423421
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sancris",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.6661318,
+                            16.7574672
+                        ],
+                        [
+                            -92.6620119,
+                            16.747769
+                        ],
+                        [
+                            -92.6580637,
+                            16.7410293
+                        ],
+                        [
+                            -92.6573771,
+                            16.7372484
+                        ],
+                        [
+                            -92.6637285,
+                            16.7298508
+                        ],
+                        [
+                            -92.6747149,
+                            16.7232748
+                        ],
+                        [
+                            -92.6572054,
+                            16.722946
+                        ],
+                        [
+                            -92.6548021,
+                            16.7171919
+                        ],
+                        [
+                            -92.649309,
+                            16.7089714
+                        ],
+                        [
+                            -92.6328295,
+                            16.7089714
+                        ],
+                        [
+                            -92.6390093,
+                            16.7180139
+                        ],
+                        [
+                            -92.6278513,
+                            16.7122597
+                        ],
+                        [
+                            -92.6348894,
+                            16.7240968
+                        ],
+                        [
+                            -92.6271647,
+                            16.7336318
+                        ],
+                        [
+                            -92.6134318,
+                            16.7357689
+                        ],
+                        [
+                            -92.6009005,
+                            16.7354401
+                        ],
+                        [
+                            -92.6151484,
+                            16.7449745
+                        ],
+                        [
+                            -92.6290529,
+                            16.7536866
+                        ],
+                        [
+                            -92.6359194,
+                            16.7550016
+                        ],
+                        [
+                            -92.6506823,
+                            16.760919
+                        ],
+                        [
+                            -92.6578921,
+                            16.767658
+                        ],
+                        [
+                            -92.6668184,
+                            16.7640419
+                        ],
+                        [
+                            -92.6661318,
+                            16.7574672
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lago de Chapala",
+                "desc": "<img src=\"https:\/\/doc-14-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/jqq528npevjuh0n5sjbjvhu1es\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzwk7EiWzL6el2j0mPPkl3uYYlo1Lgt-DnsCgL_M8hrHfmAICfMOd48JuW4-_FAkgvd8R1WIpPx5K83t9estMw82SggCbmsy6JngJl9jaoYAnLa7FmzX1UMnxdN-nCrBdkeGDkyqL36XGhWpUmw2bAnbJyUxV8Dso4kIig4b_lpNuYuLJgYeo76jEtTMEBJbJbI?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.3592547,
+                            20.292794
+                        ],
+                        [
+                            -103.4169329,
+                            20.279913
+                        ],
+                        [
+                            -103.4141863,
+                            20.2322437
+                        ],
+                        [
+                            -103.2768572,
+                            20.2000264
+                        ],
+                        [
+                            -103.1724871,
+                            20.1562002
+                        ],
+                        [
+                            -103.0791033,
+                            20.1652243
+                        ],
+                        [
+                            -103.0639971,
+                            20.1935822
+                        ],
+                        [
+                            -103.0241717,
+                            20.1781149
+                        ],
+                        [
+                            -102.9623736,
+                            20.1742478
+                        ],
+                        [
+                            -102.8593768,
+                            20.1497542
+                        ],
+                        [
+                            -102.8277911,
+                            20.1084931
+                        ],
+                        [
+                            -102.808565,
+                            20.1084931
+                        ],
+                        [
+                            -102.7742327,
+                            20.1471757
+                        ],
+                        [
+                            -102.6822222,
+                            20.1794039
+                        ],
+                        [
+                            -102.6877154,
+                            20.2129141
+                        ],
+                        [
+                            -102.7563799,
+                            20.2103367
+                        ],
+                        [
+                            -102.7371539,
+                            20.2477056
+                        ],
+                        [
+                            -102.6918353,
+                            20.2605893
+                        ],
+                        [
+                            -102.7824725,
+                            20.3095378
+                        ],
+                        [
+                            -103.1079424,
+                            20.3340063
+                        ],
+                        [
+                            -103.2205523,
+                            20.2876417
+                        ],
+                        [
+                            -103.3592547,
+                            20.292794
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reserva de la biosfera",
+                "desc": "<img src=\"https:\/\/doc-10-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/lei42dcghn4mgr0hkm4m8t2ius\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzycwAAQNHin7uf0jajU3KEcLa3pj32NGe72Kxz4uMzHskZg6dLIHGKHPcddAEyq5uBAYOZNa632YApzbgG6DIWYTsMAfwBcA-zglgo-zPL-nGrAcKesK5NOpLWfEwclc3Jom_KWe-tZekH5nOBBWrZea3KnwLNcO0IHqg9fPIS-_TdSjTxYENTM0S4MMZnVoQ?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>Tehuac\u00e1n cuicatlan<br>Zona de fosiles, trilobites, conchas, huellas de dinosaurios."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.5995778,
+                            18.3353823
+                        ],
+                        [
+                            -97.6008652,
+                            18.3101238
+                        ],
+                        [
+                            -97.553315,
+                            18.3119979
+                        ],
+                        [
+                            -97.5527142,
+                            18.3450773
+                        ],
+                        [
+                            -97.5738286,
+                            18.3448329
+                        ],
+                        [
+                            -97.5995778,
+                            18.3353823
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pantanos de Centla",
+                "desc": "<img src=\"https:\/\/doc-0s-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/sjpingrc2b5lqa1j12dl5564l4\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzwyAr8Of36ZAW1K9h0AY6LqFPNL37w0GUkrUzI_u4lX5dVonvOYInQaL-JW7uqfnqNT9wzY2ATuu2Wvn5AN69hmvSz1Hndphg1LSM-IJvUiWJFO1_fqG8yE-Th4207w7v_eojrblhWdoleyioWTurW4RXOBe_-0lewIK8fOJNhgjrz0hZMzUWHsaAZfVYh_8Q?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.8129734,
+                            18.4182242
+                        ],
+                        [
+                            -92.782761,
+                            18.2826647
+                        ],
+                        [
+                            -92.6811375,
+                            18.1548288
+                        ],
+                        [
+                            -92.5026096,
+                            18.0817377
+                        ],
+                        [
+                            -92.4641575,
+                            18.1078452
+                        ],
+                        [
+                            -92.3680271,
+                            18.0634602
+                        ],
+                        [
+                            -92.3048557,
+                            18.0399577
+                        ],
+                        [
+                            -92.2169651,
+                            18.1052346
+                        ],
+                        [
+                            -92.1400608,
+                            18.3843443
+                        ],
+                        [
+                            -92.2197117,
+                            18.467729
+                        ],
+                        [
+                            -92.329575,
+                            18.4703341
+                        ],
+                        [
+                            -92.3597874,
+                            18.4625186
+                        ],
+                        [
+                            -92.4421848,
+                            18.5015924
+                        ],
+                        [
+                            -92.447678,
+                            18.5849201
+                        ],
+                        [
+                            -92.4696507,
+                            18.631774
+                        ],
+                        [
+                            -92.59874,
+                            18.5666956
+                        ],
+                        [
+                            -92.8129734,
+                            18.4182242
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rio de los 7 Colores",
+                "desc": "Es un R\u00edo que tiene colores particulares, como rosado, magenta por las algas que contiene."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.7767127,
+                        2.1932477
+                    ],
+                    [
+                        -73.7800601,
+                        2.1910177
+                    ],
+                    [
+                        -73.7822917,
+                        2.1888735
+                    ],
+                    [
+                        -73.7848666,
+                        2.1871582
+                    ],
+                    [
+                        -73.7873557,
+                        2.1859574
+                    ],
+                    [
+                        -73.7898448,
+                        2.1857001
+                    ],
+                    [
+                        -73.7941363,
+                        2.1869866
+                    ],
+                    [
+                        -73.7967113,
+                        2.1883589
+                    ],
+                    [
+                        -73.7979129,
+                        2.1905031
+                    ],
+                    [
+                        -73.7991145,
+                        2.1952204
+                    ],
+                    [
+                        -73.7987712,
+                        2.1983938
+                    ],
+                    [
+                        -73.7992003,
+                        2.2051694
+                    ],
+                    [
+                        -73.8001445,
+                        2.2088574
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sierra nevada de santa marta",
+                "desc": "<img src=\"https:\/\/doc-10-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/7ra7486fi0gap9u901aq7inp28\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzwH4FMzUoDzUNHhh1NxE4xOja75c9Yg8-NEWeBSBNNnSCDacx05UNBWvyO2o4BpjldeZFOzAeouGavK37zMtneUIEnSQ1CeuFwKkve-a5zSVlAOhflsEsuTYgPPhL9FZBIELZkETboSAjZ5XmvctAEO8DZTZSGFE-LyhCyki2m9gM5qXfhpPz5bPEaDCOGLsA?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>es un lugar donde existen comundades indigenas"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -74.1613898,
+                        11.2876227
+                    ],
+                    [
+                        -74.1656814,
+                        11.2876227
+                    ],
+                    [
+                        -74.1675696,
+                        11.2825724
+                    ],
+                    [
+                        -74.1634498,
+                        11.2783638
+                    ],
+                    [
+                        -74.1581283,
+                        11.2791214
+                    ],
+                    [
+                        -74.1569266,
+                        11.2847609
+                    ],
+                    [
+                        -74.1607032,
+                        11.2875385
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sayulita2",
+                "desc": "Punto de referencia de Nezahualcoyotl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.426572,
+                    20.8771622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cerro de Monserrate",
+                "desc": "<img src=\"https:\/\/doc-0g-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/66fa0vek3ha9dd5b47mhq3vp1s\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzx6iBYHYrl1blmWT_MbiyT9iDwxAACCygK4ijZrYSik2UTDZhgC5cXAseymXDQR-EYSK71CZ69fXh3xKEmgHuw56FZyKOdWXrNbAkO0C_ZPlfe75iK8YqAROC_YSzg3CYZ2DiapJBSrSU556mdugtVqpqq1uRDNA4hn1C5oMO1KwuBVf4uIgV8eSX1zQNTLKw?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>Un lugar a 2600msnm, donde existe una iglesia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0555374,
+                    4.6057866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANP",
+                "desc": "Ex Convento Desierto de los Leones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3109666,
+                    19.3127352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taller Artesanal de Papel",
+                "desc": "Aqu\u00ed\u00a0aprender\u00e1s a elaborar papel a partir de fibras y colores"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7614907,
+                    17.1940793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Pueblo de Noe",
+                "desc": "Pueblo de No\u00e9, son los campos donde puedes hacer d\u00edas de campo o descansar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2091869,
+                    19.680433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuicuilco",
+                "desc": "<img src=\"https:\/\/doc-0o-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/4psejum6cc9qfe62poia77skkk\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzzNinr9wE_DFxiD93eUpavWPBqUEMt0B2I9okK-_mwe83XQfMbN_aSUbG-laMRe1OPvWbauXW-jd9uWyVFRD3y6CpnyfKAJDgo4HLEHuLJeTXoxez6GRyfmsDufGaRt09qPXi1I5fcb8Gtd7F2o9Siwy0MsObjC82dDqlvzMyA6E12sOafGtxmC8XxTr2k2Zw?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>Zona arqueol\u00f3gica en el Sur de la CDMX. Lugar recreativo, cultural e hist\u00f3rico."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.182789,
+                    19.3015206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tacos de costilla\u00a0",
+                "desc": "Est\u00e1n buenos y llenadores con tortillas echas a mano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1000238,
+                    19.2993824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monumento a la Revoluci\u00f3n",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1546298,
+                    19.4362086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnitas \"Los tarascos\"",
+                "desc": "Ricas carnitas estilo Michoac\u00e1n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.0186326,
+                    19.4032155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cancha uno\u00a0",
+                "desc": "Liga de football de Cuemanco\u00a0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1004687,
+                    19.2856522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pueblo de cuetzalan 10 de 10",
+                "desc": "Amooos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5230628,
+                    20.0193678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Nacional Bosque de Tlalpan",
+                "desc": "Ah\u00ed iba a correr , pero me lastim\u00e9 la rodilla\u00a0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1985698,
+                    19.2937967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosque de Chapultepec",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1894558,
+                    19.4194815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guerrero Chimalli",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.9838566,
+                    19.4130156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Isla del dragon",
+                "desc": "Buffet de comida china"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1658685,
+                    19.369367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Francisco Villa (Parque de los Venados)",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1559935,
+                    19.3726092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Presa la boquilla",
+                "desc": "R\u00edo Conchos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4143921,
+                    27.5451383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Nacional Ca\u00f1\u00f3n del Sumidero",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.0665327,
+                    16.833796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirador Zacatlan\u00a0",
+                "desc": "Mirador y puente de cristal en zacatlan de las manzanas\u00a0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9556483,
+                    19.931841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pizza bar",
+                "desc": "Rica Pizza con cerveza, perfecto lugar para comer y tomar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1767149,
+                    19.3356662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Segundo Dinamo",
+                "desc": "Variedad de actividades y comida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2743775,
+                    19.2842591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ajusco",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.258056,
+                    19.2075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Nacional Iztacc\u00edhuatl - Popocat\u00e9petl",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.6432689,
+                    19.252994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hamburguesas Copilco",
+                "desc": "Ricas hamburguesas a precios bajos."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1774259,
+                    19.3344318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plaza Garibaldi",
+                "desc": "Plaza del Mariachi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1391993,
+                    19.4405576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El pica 1",
+                "desc": "Barbacoa\u00a0<br>Salio en Netflix"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.8110393,
+                    19.5176817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refugio",
+                "desc": "Primer campamento para ascender al volcan istatzihuatl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.6534694,
+                    19.1204845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La cuna del ma\u00edz\u00a0",
+                "desc": "<img src=\"https:\/\/doc-0s-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/m6esid96v4h1u74t2rlhk3058c\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzzTGbfBCxLg1VOoSK04zEx8zTYC-xsPElSv3BGhLlqCHx1Rj4IWi2yVMoJ88HuISHYDQTfEA_12prPk2Y8n1DLFfWKyzGXXUTDBU5uHfzo7D0Jd8OOW7w9r-hn1L3l2Dy9OYwKFvCoYBCpyxRd9X4fz7xylsHncp4e_p3LXJKeFsGHQcpA1Gu3JG-vpd8i35g?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>Se dice que este lugar fue la cuna del ma\u00edz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3454474,
+                    18.4513409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minerva\u00a0",
+                "desc": "Cerveza Artesanal\u00a0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.4303646,
+                    20.6205423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centro Historico de Bogota",
+                "desc": "Es el lugar donde se inicio la ciudad de Bogota hace 450 a\u00f1os"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.075859,
+                    4.5982282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Playa Cuevas Sayulita",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4318052,
+                    20.8783243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuernavaca",
+                "desc": "Ciudad que quiero conocer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2075342,
+                    18.9227206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alameda Central",
+                "desc": "<img src=\"https:\/\/doc-00-64-mymaps.googleusercontent.com\/untrusted\/hostedimage\/lj093ihva74dbuta8aqjbh2t98\/2ja5km4j7fjttqqa5935mfkk3o\/1676999132250\/Vmarem6ET1sLUOMJ6bAg-q-ixstayUwO\/12932200075089544601\/5AI-xGzxgqTf93ym7fmYt53UuXPgBFNh3DiFl-V82AjliBDBi_85wxl6c5A6OWIt9rK2E-drnO9yJISz8FfugxTgb-QhEjn0ox3kfg70pgXi3Mz_3cMu1B0Q6SyiFaU2T_KY0zVoDNAc__-UU36QJ7MmplV5mM5eydZ9d0Z_Xu6k8SAxrlF954qFT7yLWr1RoRGVw0w?session=0&fife\" height=\"200\" width=\"auto\" \/><br><br>Atracci\u00f3n tur\u00edstica del centro de la CDMX."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1439818,
+                    19.4357032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punta Sayulita",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4510956,
+                    20.8763595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mariposa Monarca",
+                "desc": "Santuario de la Mariposa Monarca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.2890514,
+                    19.5733572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Playa Carricitos Sayulita",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4542285,
+                    20.8688337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sibinal",
+                "desc": "visita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0505903,
+                    15.1502602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dzilam Gonz\u00e1lez",
+                "desc": "Trabajando en parque e\u00f3lico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9288457,
+                    21.2801771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mi Universidad\u00a0",
+                "desc": "Donde me gradue hace 8 a\u00f1os"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0495827,
+                    4.8023075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sayulita5",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4476506,
+                    20.8595248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guanajuato",
+                "desc": "De paseo con los amigos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.2573586,
+                    21.0190145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sayulita6",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.4380805,
+                    20.8594045
+                ]
+            }
+        }
+    ]
+}
